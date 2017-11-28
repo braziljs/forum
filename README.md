@@ -2,9 +2,10 @@
  Este forum foi criado para todos nós compartilhar conhecimentos. Onde poderemos discutir sobre os assuntos da BrazilJS, dar dicas, seugestões e sanar suas dúvidas.
 
 ## Sumário
+* [Sobre](#forum-da-braziljs)
 * [Nosso Proósito](#nosso-propósito)
 * [Código de Conduta](#código-de-conduta)
-* [Você tem dúvidas?](#você-tem-dúvidas?)
+* [Você tem dúvidas?](#você-tem-dúvidas)
 * [Criando uma ISSUE](#criando-uma-issue)
 * [LICENSE](#license)
 
