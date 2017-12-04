@@ -1,8 +1,13 @@
-# Forum da BrazilJS
+# Fórum da BrazilJS
  Este fórum foi criado para que possamos discutir ideias e compartilhar conhecimento.
+ <p align="center">
+ <img src="http://2016.abcdevelopers.org/images/braziljs.svg" />
+ </p>
+ <p align="center">
+ <a href="https://github.com/braziljs/forum/issues" alt="BrazilJS" width="119" /><img src="https://github.com/renanbastos93/forum/blob/feature/information-about-forum/btn.png?raw=true" /></a>
+</p>
 
 ## Sumário
-* [Sobre](#forum-da-braziljs)
 * [Código de Conduta](#código-de-conduta)
 * [Você tem dúvidas?](#você-tem-dúvidas)
 
