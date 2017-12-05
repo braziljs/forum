@@ -2,7 +2,7 @@
 
 Olá, este é o fórum da [BrazilJS](https://braziljs.org/)! Ele foi criado para que possamos discutir ideias, compartilhar conhecimento, e o mais importante: Ajudar toda e qualquer pessoa que esteja enfrentando algum tipo de problema/dificuldade, estiver com alguma dúdiva técnica ou dúvida profissional referente ao mercado de trabalho, estudos, etc.  
 
-Este forúm também tem como objetivo servir de extensão ou complemento a eventos, meetups, workshops e qualquer outro tipo de encontro da comunidade, assim como promover debates saudáveis a respeito de artigos, tweets e posts da comunidade.  
+Este forúm também tem como objetivo servir de extensão ou complemento a eventos, meetups, workshops e qualquer outro tipo de encontro da comunidade, assim como promover debates saudáveis a respeito de artigos, tweets, vídeos e posts proudzidos pela comunidade.  
 
 Além disso, o forúm BrazilJS servirá de meio para que a comunidade tenha uma comunicação ainda mais aberta e transparente com a organização por trás da BrazilJS.  
 
