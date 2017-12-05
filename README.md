@@ -20,9 +20,6 @@ Este forum é fortemente baseado em dois projetos que já vêm dando muito certo
 
 > **Disclaimer:** _As opiniões aqui publicadas são de inteira responsabilidade de seus autores e não refletem, necessariamente, o posicionamento da organização._
 
-<p align="center">
-<a href="https://github.com/braziljs/forum/issues" alt="BrazilJS" width="119" /><img src="https://github.com/renanbastos93/forum/blob/feature/information-about-forum/btn.png?raw=true" /></a>
-</p>
 
 ## Sumário
 * [Código de Conduta](#código-de-conduta)
