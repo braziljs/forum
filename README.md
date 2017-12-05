@@ -30,4 +30,4 @@ Este forum é fortemente baseado em dois projetos que já vêm dando muito certo
  Antes de criar um post (abrir uma *issue*) recomendamos que você leia nosso [Código de Conduta](https://braziljs.org/coc/).
 
 ## Você tem dúvidas?
- Sinta-se a vontade para tirar suas dúvidas, apenas recomendamos que você utilize a busca antes de postar, talvez alguém já tenha respondido sua dúvida anteriormente e assim podemos evitar posts duplicados.
+ Sinta-se à vontade para tirar suas dúvidas, apenas recomendamos que você utilize a busca antes de postar, talvez alguém já tenha respondido sua dúvida anteriormente e assim podemos evitar posts duplicados.
