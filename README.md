@@ -4,10 +4,12 @@
 </p>
 
 ## Sumário
+
 * [Introdução](#fórum-da-braziljs)
 * [Como participar](#como-participar)
-* [Código de Conduta](#código-de-conduta)
 * [Quais vantagens de usar o GitHub como plataforma?](#quais-vantagens-de-usar-o-github-como-plataforma)
+* [Como receber atualizações do Forum](#como-receber-atualiza%C3%A7%C3%B5es-do-forum)
+* [Código de Conduta](#código-de-conduta)
 
 ## Fórum da BrazilJS
 
@@ -24,6 +26,7 @@ Este forum é fortemente baseado em dois projetos que já vêm dando muito certo
 - [training-center/forum](https://github.com/training-center/forum)
 
 ## Como participar
+
 O GitHub é uma excelente plataforma para código aberto, porém, também funciona como um canal de comunicação entre a comunidade.  
 O modelo de issues funciona para projetos de software e se encaixa muito bem para debates e discussões.  
 Para participar do fórum da BrazilJS, basta que você crie uma issue com a sua dúvida, problema, indicação, elogio, devaneio, o que for. Este é um canal aberto à discussões saudáveis.  
@@ -37,10 +40,20 @@ Mas não se preocupe, caso o tópoico já exista, vamos linka-lo ou até mesmo e
 </p>
 
 ## Quais vantagens de usar o GitHub como plataforma?
+
 Além dos [pontos levantados pelo pessoal do FrontEndBR](https://github.com/frontendbr/forum#vantagens-do-github), a BrazilJS já vem utilizando o GitHub em outros projetos, sendo o mais conhecido a [BrazilJS Weekly](https://github.com/braziljs/weekly).  
 Nossa newsletter é totalmente baseada em issues aqui no GitHub e isso vem funcionando muito bem por 3 anos.  
 
+## Como receber atualizações do Forum
+
+Você pode receber atualizações do Forum no seu email ou via notificações do GitHub, basta clicar em **Watch** e, em seguida, clicar em **Watching** no canto superior direito da interface do site, próximo a sua foto de perfil.
+
+<p align="center">
+  <img src="http://s31.postimg.org/nt5f6bbff/watch_github_forum.png" alt="Watch GitHub repo"/>
+</p>
+
 ## Código de Conduta
+
 O objetivo aqui é ajudar pessoas. Simples e direto.  
 Não queremos impor como o fórum deve funcionar, pois ele deve ser gerido pela comunidade, porém, discussões devem ser 100% saudáveis.  
 Caso você não tenha nada a acrescentar, ou tenha alguma opinião forte a respeito de algo, pense bem antes de fazer um comentário, coloque-se no lugar da pessoa pedindo ajuda.  
