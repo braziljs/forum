@@ -7,6 +7,7 @@
 * [Introdução](#fórum-da-braziljs)
 * [Como participar](#como-participar)
 * [Código de Conduta](#código-de-conduta)
+* [Quais vantagens de usar o GitHub como plataforma?](#quais-vantagens-de-usar-o-github-como-plataforma)
 
 ## Fórum da BrazilJS
 
