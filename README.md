@@ -4,7 +4,7 @@
 
 ## Sumário
 
-* [Introdução](#introducao)
+* [Introdução](#introdução)
 * [Como participar](#como-participar)
 * [Quais vantagens de usar o GitHub como plataforma?](#quais-vantagens-de-usar-o-github-como-plataforma)
 * [Como receber atualizações do Forum](#como-receber-atualiza%C3%A7%C3%B5es-do-forum)
