@@ -4,7 +4,7 @@
 </p>
 
 ## Sumário
-* [Introdução](#forum-da-braziljs)
+* [Introdução](#fórum-da-braziljs)
 * [Como participar](#como-participar)
 * [Código de Conduta](#código-de-conduta)
 * [Você tem dúvidas?](#você-tem-dúvidas)
