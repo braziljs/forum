@@ -1,6 +1,6 @@
 # Fórum BrazilJS 🤓
 
-![Fórum BrazilJS](forum-braziljs.png)
+![Fórum BrazilJS](forum-braziljs.jpg)
 
 ## Sumário
 
