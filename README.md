@@ -1,7 +1,4 @@
-
-<p align="center">
-  <img src="https://braziljs.org/wp-content/themes/braziljs/assets/img/logos/braziljs-00508dcfc4.svg">
-</p>
+![Fórum BrazilJS](forum-braziljs.png)
 
 ## Sumário
 
