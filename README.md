@@ -23,10 +23,6 @@ Este forum é fortemente baseado em dois projetos que já vêm dando muito certo
 - [frontendbr/forum](https://github.com/frontendbr/forum)
 - [training-center/forum](https://github.com/training-center/forum)
 
-<p align="center">
-  <a href="https://github.com/braziljs/forum/issues"><img src="btn.png?raw=true"></a>
-</p>
-
 ## Como participar
 O GitHub é uma excelente plataforma para código aberto, porém, também funciona como um canal de comunicação entre a comunidade.  
 O modelo de issues funciona para projetos de software e se encaixa muito bem para debates e discussões.  
@@ -35,6 +31,10 @@ Para participar do fórum da BrazilJS, basta que você crie uma issue com a sua 
 Sinta-se à vontade para criar quantas issues quiser, apenas recomendamos que você utilize a busca antes de postar, talvez alguém já tenha respondido sua dúvida anteriormente e assim podemos evitar posts duplicados.  
 Indo além, como comentamos anteriormente, este fórum é inspirado e baseado nos excelentes fóruns já existentes dos amigos do [FrontEndBR](https://github.com/frontendbr) e do [TrainingCenter](training-center), então existe uma chance do seu tópico já ter sido discutido por lá.  
 Mas não se preocupe, caso o tópoico já exista, vamos linka-lo ou até mesmo explora-lo mais ainda.  
+
+<p align="center">
+  <a href="https://github.com/braziljs/forum/issues"><img src="btn.png?raw=true"></a>
+</p>
 
 ## Código de Conduta
 O objetivo aqui é ajudar pessoas. Simples e direto.  
