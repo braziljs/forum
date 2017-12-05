@@ -1,14 +1,16 @@
+# Fórum BrazilJS 🤓
+
 ![Fórum BrazilJS](forum-braziljs.png)
 
 ## Sumário
 
-* [Introdução](#fórum-da-braziljs)
+* [Introdução](#introducao)
 * [Como participar](#como-participar)
 * [Quais vantagens de usar o GitHub como plataforma?](#quais-vantagens-de-usar-o-github-como-plataforma)
 * [Como receber atualizações do Forum](#como-receber-atualiza%C3%A7%C3%B5es-do-forum)
 * [Código de Conduta](#código-de-conduta)
 
-## Fórum da BrazilJS
+## Introdução
 
 Olá, este é o fórum da [BrazilJS](https://braziljs.org/)! Ele foi criado para que possamos discutir ideias, compartilhar conhecimento, e o mais importante: Ajudar toda e qualquer pessoa que esteja enfrentando algum tipo de problema/dificuldade, estiver com alguma dúdiva técnica ou dúvida profissional referente ao mercado de trabalho, estudos, etc.  
 
