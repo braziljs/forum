@@ -42,7 +42,8 @@ Mas não se preocupe, caso o tópoico já exista, vamos linka-lo ou até mesmo e
 ## Quais vantagens de usar o GitHub como plataforma?
 
 Além dos [pontos levantados pelo pessoal do FrontEndBR](https://github.com/frontendbr/forum#vantagens-do-github), a BrazilJS já vem utilizando o GitHub em outros projetos, sendo o mais conhecido a [BrazilJS Weekly](https://github.com/braziljs/weekly).  
-Nossa newsletter é totalmente baseada em issues aqui no GitHub e isso vem funcionando muito bem por 3 anos.  
+Nossa newsletter é totalmente baseada em issues aqui no GitHub e isso vem funcionando muito bem por quase 3 anos 😱😱😱.  
+As issues são bem democráticas, bastando apenas uma conta na GitHub para que possa participar, então acreditamos que essa soluçao acaba sendo bem interessante para um fórum.  
 
 ## Como receber atualizações do Forum
 
