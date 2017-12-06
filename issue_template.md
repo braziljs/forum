@@ -8,4 +8,4 @@ Existe grande chance do tópico já ter sido debatido em um destes fóruns.
 
 ### Leia o README e seja legal
 
-### Agora pode apagar tudo e criar a sua issue 🙂
+### Agora pode apagar tudo e criar a sua issue :)
