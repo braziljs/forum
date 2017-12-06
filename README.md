@@ -14,7 +14,7 @@
 
 Olá, este é o fórum da [BrazilJS](https://braziljs.org/)! Ele foi criado para que possamos discutir ideias, compartilhar conhecimento, e o mais importante: Ajudar toda e qualquer pessoa que esteja enfrentando algum tipo de problema/dificuldade, estiver com alguma dúdiva técnica ou dúvida profissional referente ao mercado de trabalho, estudos, etc.  
 
-Este forúm também tem como objetivo servir de extensão ou complemento a eventos, meetups, workshops e qualquer outro tipo de encontro da comunidade, assim como promover debates saudáveis a respeito de artigos, tweets, vídeos e posts proudzidos pela comunidade.  
+Este forúm também tem como objetivo servir de extensão ou complemento a eventos, meetups, workshops e qualquer outro tipo de encontro da comunidade, assim como promover debates saudáveis a respeito de artigos, tweets, vídeos e posts produzidos pela comunidade.  
 
 Além disso, o forúm BrazilJS servirá de meio para que a comunidade tenha uma comunicação ainda mais aberta e transparente com a organização por trás da BrazilJS.  
 
@@ -32,7 +32,7 @@ Para participar do fórum da BrazilJS, basta que você crie uma issue com a sua 
 
 Sinta-se à vontade para criar quantas issues quiser, apenas recomendamos que você utilize a busca antes de postar, talvez alguém já tenha respondido sua dúvida anteriormente e assim podemos evitar posts duplicados.  
 Indo além, como comentamos anteriormente, este fórum é inspirado e baseado nos excelentes fóruns já existentes dos amigos do [FrontEndBR](https://github.com/frontendbr) e do [TrainingCenter](training-center), então existe uma chance do seu tópico já ter sido discutido por lá.  
-Mas não se preocupe, caso o tópoico já exista, vamos linka-lo ou até mesmo explora-lo mais ainda.  
+Mas não se preocupe, caso o tópico já exista, vamos linka-lo ou até mesmo explora-lo mais ainda.  
 
 <p align="center">
   <a href="https://github.com/braziljs/forum/issues"><img src="btn.png?raw=true"></a>
